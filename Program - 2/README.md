@@ -62,7 +62,7 @@ MashUP_Web/
 ---
 ## Author
 
-Mukul Ghai
+Saanchi Gupta
 
 ---
 
